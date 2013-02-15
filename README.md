@@ -1,0 +1,4 @@
+installer
+=========
+
+create windows shortcut
