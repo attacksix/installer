@@ -8,9 +8,12 @@ Instructions
 
 On the windows build machine make sure ruby is installed.
 
-ocra gem is used to create an exe file from the ruby file.
+Install the follwing gems:
 
-win32-shortcut gem is used to create the shortcuts.
+* ocra - used to create an exe file from the ruby file.
+* win32-shortcut - used to create the shortcuts.
+
+run installer.rb
 
 exe file is a rar self extracting compressed file.
 
